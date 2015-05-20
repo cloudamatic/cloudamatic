@@ -2,8 +2,9 @@
 
 Cloudamatic is a complete cloud deployment solution designed to provision, orchestrate and manage complex platforms and applications. Cloudamatic's goal is to offer the ability to automate any arbitrarily complex application, platform or combination on a wide range of infrastructure targets, starting with AWS Cloud and including other clouds, virtualized environments and bare iron.
 
-* The Cloudamatic deployment and development tooling is called "mu", and you can access it in the [mu repository](https://github.com/eGT-Labs/mu/wiki)  
-* Here is a link to our overall website
+* The Cloudamatic deployment and development tooling is called "mu", and you can access it in the [mu repository](https://github.com/eGT-Labs/mu/)
+* Architectural and technical basics, as well as a walkthrough are available on the [mu repository wiki](https://github.com/cloudamatic/mu/wiki)  
+* Here is a link to our [overall Cloudamatic website](https://www.cloudamatic.com)
 
 ## Automating for Reliability & Agility
 Instantaneously available cloud services are necessary for application agility -- but traditional systems
