@@ -12,7 +12,7 @@ deployment and administration need to be automated to fully realize the associat
 administration replaces painstaking and error-prone manual intervention with a seamless ability to describe,
 unite, and wire together the cloud services we provision with the application capabilities we want to run.
 
-![README](README_images/\README.png)
+![README](assets/\README.png)
 
 ## Cloudamatic Full LifeCycle Automation
 Open Source Cloudamatic delivers a non-intrusive framework to orchestrate the entire provisioning and
