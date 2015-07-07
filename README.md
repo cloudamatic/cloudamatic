@@ -1,7 +1,8 @@
 
 
 # About Cloudamatic
-[![ScreenShot](assets/\videoThumbnail.png)](https://www.youtube.com/watch?v=IEcdlgLNgus) 
+
+<a href="https://www.youtube.com/watch?v=IEcdlgLNgus" target="_blank"><img src="assets/videoThumbnail.png" /></a>
 
 Cloudamatic is a complete cloud deployment solution designed to provision, orchestrate and manage complex platforms and applications. Cloudamatic's goal is to offer the ability to automate any arbitrarily complex application, platform or combination on a wide range of infrastructure targets, starting with AWS Cloud and including other clouds, virtualized environments and bare iron.
 
